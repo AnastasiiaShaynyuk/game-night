@@ -1,0 +1,25 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#520f82",
+    "activityBar.background": "#520f82",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#8f5a10",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#520f82",
+    "statusBar.background": "#350a54",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#520f82",
+    "statusBarItem.remoteBackground": "#350a54",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#350a54",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#350a5499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#350a54",
+  "cSpell.words": [
+    "Shaynyuk"
+  ]
+}
